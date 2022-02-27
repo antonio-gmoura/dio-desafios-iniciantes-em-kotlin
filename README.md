@@ -63,3 +63,27 @@ Imprima 3 linhas na saída: o novo salário, o valor ganho de reajuste e o perce
 | 400.00             | Novo salario: 460.00 <br />Reajuste ganho: 60.00 <br />Em percentual: 15 % |
 | 800.01 | Novo salario: 880.01 <br />Reajuste ganho: 80.00 <br />Em percentual: 10 % |
 | 2000.00 | Novo salario: 2140.00 <br />Reajuste ganho: 140.00 <br />Em percentual: 7 % |
+
+## 3 / 3 - Diferença
+
+** Básico     ** Princípios Básicos
+
+------
+
+Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
+
+#### Entrada
+
+O arquivo de entrada contém 4 valores inteiros.
+
+#### Saída
+
+Imprima a mensagem **DIFERENCA** com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
+
+ 
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| 5 <br />6 <br />7 <br />8 | DIFERENCA = -26   |
+| 0 <br />0 <br />7 <br />8 | DIFERENCA = -56 |
+| 5 <br />6 <br />-7 <br />8 | DIFERENCA = 86 |
